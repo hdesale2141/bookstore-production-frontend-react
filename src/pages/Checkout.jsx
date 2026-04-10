@@ -95,7 +95,7 @@ function Checkout() {
                         <h2 className="sr-only text-w">Order summary</h2>
                         <div>
                             
-                            <img src="https://images.unsplash.com/photo-1581318694548-0fb6e47fe59b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80" alt="" className="absolute inset-0 h-full w-full object-cover" />
+                            <img src="https://wallpapers.com/images/hd/selective-photo-of-a-pile-of-books-cq0clpll994v008x.jpg" alt="" className="absolute inset-0 h-full w-full object-cover" />
                             <div className="absolute inset-0 h-full w-full bg-gradient-to-t from-teal-800 to-teal-400 opacity-85"></div>
                         </div>
         
